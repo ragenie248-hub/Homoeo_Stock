@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">HomeoStock</string>
+
+    <!-- Navigation -->
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_ledger">Ledger</string>
+
+    <!-- Inventory Screen -->
+    <string name="inventory_subtitle">Dispensary &amp; Remedy Stock</string>
+    <string name="search_remedies_hint">Search remedy, potency, brand, shelf…</string>
+    <string name="add_remedy">Add Remedy</string>
+    <string name="load_starter_kit">Load Starter Home Kit</string>
+    <string name="empty_inventory_title">Your Apothecary Shelf is Empty</string>
+    <string name="empty_inventory_desc">Add your first homoeopathic remedy with potency, bottle size, batch, and expiry date—or load an 8-remedy starter kit to explore.</string>
+    <string name="kpi_remedies">Remedies</string>
+    <string name="kpi_bottles">Total Units</string>
+    <string name="kpi_low_stock">Low Stock</string>
+    <string name="kpi_expiring">Expiring</string>
+
+    <!-- Filters & Sorting -->
+    <string name="filter_all">All</string>
+    <string name="filter_low_stock">Low Stock</string>
+    <string name="filter_out_of_stock">Out of Stock</string>
+    <string name="filter_expiring_soon">Expiring Soon</string>
+    <string name="filter_expired">Expired</string>
+    <string name="sort_by">Sort</string>
+
+    <!-- Alerts Screen -->
+    <string name="alerts_title">Restock &amp; Expiry</string>
+    <string name="alerts_subtitle">Remedies needing attention or reorder</string>
+    <string name="share_reorder_list">Share Reorder List</string>
+    <string name="alerts_all_clear_title">All Stock Healthy</string>
+    <string name="alerts_all_clear_desc">No remedies are below reorder thresholds or approaching expiration in the next 90 days.</string>
+
+    <!-- Ledger Screen -->
+    <string name="ledger_title">Stock Ledger</string>
+    <string name="ledger_subtitle">Dispensing, restocks &amp; audit trail</string>
+    <string name="export_inventory">Export CSV</string>
+    <string name="ledger_empty_title">No Stock Movements Yet</string>
+    <string name="ledger_empty_desc">Every bottle dispensed, restocked, or adjusted is logged here with timestamps and batch reasons.</string>
+
+    <!-- Detail & Form -->
+    <string name="remedy_details">Remedy Details</string>
+    <string name="edit_remedy">Edit Remedy</string>
+    <string name="delete_remedy">Delete Remedy</string>
+    <string name="confirm_delete_title">Remove Remedy?</string>
+    <string name="confirm_delete_message">This will remove the remedy from active inventory. Past movement logs remain in the ledger.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="restock">Restock</string>
+    <string name="dispense">Dispense</string>
+    <string name="adjust_stock">Adjust Stock</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_apothecary_banner">Botanical homoeopathic apothecary shelf illustration</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_decrease_stock">Dispense one unit</string>
+    <string name="cd_increase_stock">Restock one unit</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_more_options">More options</string>
+</resources>

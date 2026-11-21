@@ -1,0 +1,6 @@
+{
+  "name": "HomeoStock",
+  "description": "Manage homoeopathic medicine inventory, potencies, bottle stock levels, expiry dates, and reorder alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
